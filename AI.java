@@ -2,9 +2,6 @@ import java.util.ArrayList;
 
 public class AI {
 
-    //Return first move pair
-    //Not Minning
-    // Value not incrementing
 
     boolean M = false;
     int colour = -1;
